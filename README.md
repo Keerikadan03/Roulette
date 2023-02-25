@@ -1,1 +1,2 @@
-# Roulette
+<h1>Welcome to the Roulette smart contract project!</h1> 
+<p>This project uses Solidity programming language to create a decentralized and transparent roulette game on the Ethereum blockchain. The smart contract code includes functions to place bets, spin the roulette wheel, and distribute payouts. This project is designed to showcase the power of blockchain technology in creating fair and secure gambling systems. Feel free to explore the code and try out the game for yourself!</p>
